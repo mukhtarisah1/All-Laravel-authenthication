@@ -1,0 +1,1 @@
+# All-Laravel-authenthication-format
